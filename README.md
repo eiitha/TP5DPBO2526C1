@@ -1,4 +1,4 @@
-# TP 5 DPBO — PeopleData (Data Aktor + MySQL)
+# TP 5 DPBO — Data Aktor + MySQL
 
 ## Janji
 
