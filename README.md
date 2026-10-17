@@ -168,7 +168,7 @@ Koneksi database menggunakan konfigurasi lokal berikut:
 - Password: kosong, sesuai konfigurasi default XAMPP
 - JDBC URL: `jdbc:mysql://localhost:3306/db_people`
 
-## Dokumentasi Saat Program Dijalankan
+## Dokumentasi
 
 ### Read — Menampilkan Data Aktor
 
