@@ -4,11 +4,6 @@
 
 Saya Jillena Surbakti dengan NIM 2501485 mengerjakan Tugas Praktikum 5 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO). Untuk keberkahan-Nya, saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-## Deskripsi
-Tugas Praktikum 5 Mata Kuliah **Desain dan Pemrograman Berorientasi Objek (DPBO)**.
-
-Program ini mengelola data aktor (`Actor`) menggunakan GUI Java Swing. Aplikasi menyediakan operasi CRUD (Create, Read, Update, Delete), pilihan Genre dan Awardee Status, validasi input, serta dialog konfirmasi penghapusan. Seluruh data disimpan secara persisten di MySQL melalui JDBC, menggunakan database `db_people` dan tabel `actor`.
-
 ## Struktur Folder
 
 ```text
